@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/button-glowing-effect/static/css/main.7f686ba3.css",
+    "main.js": "/button-glowing-effect/static/js/main.bb9509f5.js",
+    "static/js/787.77502326.chunk.js": "/button-glowing-effect/static/js/787.77502326.chunk.js",
+    "index.html": "/button-glowing-effect/index.html",
+    "main.7f686ba3.css.map": "/button-glowing-effect/static/css/main.7f686ba3.css.map",
+    "main.bb9509f5.js.map": "/button-glowing-effect/static/js/main.bb9509f5.js.map",
+    "787.77502326.chunk.js.map": "/button-glowing-effect/static/js/787.77502326.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f686ba3.css",
+    "static/js/main.bb9509f5.js"
+  ]
+}
