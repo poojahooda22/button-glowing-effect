@@ -3,12 +3,12 @@ import './App.css';
 
 function App() {
   return (
-    <div className="container">
+    <>
       <a
-        href="www.google.com" className ="button-glow">
-          Learning Now
+        href="www.google.com" className ="button">
+          <span> Learning Now </span>
       </a>
-    </div>
+    </>
   );
 }
 
